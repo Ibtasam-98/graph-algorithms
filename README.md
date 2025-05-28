@@ -2,7 +2,6 @@
 
 This repository is a comprehensive collection of essential graph algorithms and data structures, all implemented in Python. My goal is to provide clear, practical examples that illuminate graph theory concepts, from fundamental representations to advanced pathfinding and visualization. Whether you're learning about graphs or looking for reliable implementations, this repository aims to be a valuable resource.
 
----
 
 ## Features
 
@@ -23,4 +22,3 @@ Discover a range of graph functionalities, including **graph coloring**, **Euler
 ### Visualization
 Tools to help you **visualize graphs and their properties** using Python libraries, making complex concepts easier to grasp.
 
----
